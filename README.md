@@ -1,4 +1,4 @@
-# Basic Python Projects
+# Beginner Python Projects
 
 Welcome to the Basic Python Projects repository! This repository contains a collection of simple and fun Python projects where I learnt from Udemy Python Course aimed at helping beginners learn and practice Python programming. Each project includes a brief description, instructions on how to run the code, and example outputs.
 
